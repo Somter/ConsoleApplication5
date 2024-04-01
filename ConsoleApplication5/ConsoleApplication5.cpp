@@ -51,7 +51,7 @@ public:
         cout << "Wheels: " << Wheels << endl;   
         cout << "k.p.p: " << k_p_p << endl; 
     }
-};
+};  
 
 class CarBuilder abstract
 {
